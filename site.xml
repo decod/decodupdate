@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/p2.br.com.decod.icode_1.0.0.jar" id="p2.br.com.decod.icode" version="1.0.0">
+      <category name="iCode"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.login_1.0.0.jar" id="p2.br.com.decod.icode.login" version="1.0.0">
+      <category name="iCode"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.modelos_1.0.0.jar" id="p2.br.com.decod.icode.modelos" version="1.0.0">
+      <category name="iCode"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.base_1.0.0.jar" id="p2.br.com.decod.icode.base" version="1.0.0">
+      <category name="Base"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.depnfe_1.0.0.jar" id="p2.br.com.decod.icode.depnfe" version="1.0.0">
+      <category name="Gerenciais"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.nfe_1.0.0.jar" id="p2.br.com.decod.icode.nfe" version="1.0.0">
+      <category name="Gerenciais"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.utilitarios_1.0.0.jar" id="p2.br.com.decod.icode.utilitarios" version="1.0.0">
+      <category name="Base"/>
+   </feature>
+   <feature url="features/p2.log4j_1.0.0.jar" id="p2.log4j" version="1.0.0">
+      <category name="iCode"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.update_1.0.0.jar" id="p2.br.com.decod.icode.update" version="1.0.0">
+      <category name="Atualizações"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.estoque_1.0.0.jar" id="p2.br.com.decod.icode.estoque" version="1.0.0">
+      <category name="Gerenciais"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.impostos_1.0.0.jar" id="p2.br.com.decod.icode.impostos" version="1.0.0">
+      <category name="Gerenciais"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.ireportplugin_1.0.0.jar" id="p2.br.com.decod.icode.ireportplugin" version="1.0.0">
+      <category name="Relatórios"/>
+   </feature>
+   <feature url="features/p2.br.com.decod.icode.relatorios_1.0.0.jar" id="p2.br.com.decod.icode.relatorios" version="1.0.0">
+      <category name="Relatórios"/>
+   </feature>
+   <category-def name="iCode" label="iCode">
+      <description>
+         Decod Soluções Tecnológicas. Suporte (45) 3054-1793
+      </description>
+   </category-def>
+   <category-def name="Base" label="Base">
+      <description>
+         Decod Soluções Tecnológicas. Suporte (45) 3054-1793
+      </description>
+   </category-def>
+   <category-def name="Gerenciais" label="Gerenciais">
+      <description>
+         Decod Soluções Tecnológicas. Suporte (45) 3054-1793
+      </description>
+   </category-def>
+   <category-def name="Atualizações" label="Atualizações">
+      <description>
+         Decod Soluções Tecnológicas. Suporte (45) 3054-1793
+      </description>
+   </category-def>
+   <category-def name="Relatórios" label="Relatórios">
+      <description>
+         Decod Soluções Tecnológicas. Suporte (45) 3054-1793
+      </description>
+   </category-def>
+</site>
